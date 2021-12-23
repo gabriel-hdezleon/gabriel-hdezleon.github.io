@@ -17,4 +17,6 @@ Soy economista y actualmente estudiante del programa de la Maestría en Economí
 
 Mis temas de investigación de interés son el **desarrollo económico** y la **economía política**. Disfruto tanto la investigación teórica como la empírica.
 
-[Vitae](._Vitae.html)
+También puede ver:
+[Vitae](._Vitae.html).
+Gracias.
