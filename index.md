@@ -1,5 +1,5 @@
 ---
-title: H. Gabriel Hernández-León
+title: "H. Gabriel Hernández-León"
 permalink: /
 layout: default
 ---
