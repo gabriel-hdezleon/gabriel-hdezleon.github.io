@@ -7,7 +7,6 @@ navbar:
       href: index.md
     - text: "About"
       href: about.md
-  right:
     - text: "Contact me"
       href: mailto:hector.hernandezl@outlook.es
     - text: "GitHub"
