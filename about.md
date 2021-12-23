@@ -1,6 +1,7 @@
 ---
-layout: default
-title: "Vitae"
+layout: page
+title: "About"
+permalink: https:gabriel-hdezleon.github.io/about/contact
 ---
 
 ## CV
