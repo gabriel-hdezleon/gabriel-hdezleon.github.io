@@ -16,3 +16,5 @@ My research topic of interest the intersection of **development economics** and 
 Soy economista y actualmente estudiante del programa de la Maestría en Economía en el Centro de Investigación y Docencia Económicas, [CIDE](https://www.cide.edu/).
 
 Mis temas de investigación de interés son el **desarrollo económico** y la **economía política**. Disfruto tanto la investigación teórica como la empírica.
+
+[Vitae](._Vitae.md)
