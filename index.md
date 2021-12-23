@@ -1,5 +1,8 @@
 ---
 title: "H. Gabriel Hernández-León"
+left:
+-text: "Vitae"
+href: Vitae.yaml
 permalink: /
 layout: default
 ---
