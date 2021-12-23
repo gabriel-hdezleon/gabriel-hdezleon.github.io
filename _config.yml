@@ -6,10 +6,10 @@ navbar:
   left:
     - text: "Home"
       icon: fa-home
-      href: index.md
+      href: index.html
     - text: "About"
       icon: fa-user 
-      href: about.md
+      href: about.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
