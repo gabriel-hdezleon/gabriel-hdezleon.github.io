@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
-title: "H. Gabriel Hernández-León"
+navbar:
+  title: "H. Gabriel Hernández-León"
+  left:
+    -text: "Home"
+    href: index.md
+    -text: "About"
+    href: about.md
