@@ -1,6 +1,4 @@
 ---
-title: "H. Gabriel Hernández-León"
-permalink: /
 layout: default
 ---
 
