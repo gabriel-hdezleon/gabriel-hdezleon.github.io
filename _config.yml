@@ -1,7 +1,7 @@
-name: "H. Gabriel Hernández-León"                                # CHANGE HERE 
+name: "H. Gabriel Hernández-León"                                 
 output_dir: "."
 navbar:
-  title: "H. Gabriel Hernández-León"                             # CHANGE HERE 
+  title: "H. Gabriel Hernández-León"                             
   type: inverse
   left:
     - text: "Home"
@@ -10,19 +10,10 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
-  right:
+      right:
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:hector.hernandezl@outlook.es                    # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
