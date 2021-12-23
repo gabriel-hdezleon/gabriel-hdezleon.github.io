@@ -1,6 +1,6 @@
 ---
 title: "H. Gabriel Hernández-León"
-permalink: https:gabriel-hdezleon.github.io
+permalink: /
 layout: default
 ---
 
@@ -24,6 +24,6 @@ Mis temas de investigación de interés son el **desarrollo económico** y la **
 
 ## CV
 
-[Curriculum Vitae (EN)](/'CV - H. Gabriel Hernandez-Leon (EN).pdf')
+[Curriculum Vitae (EN)](/'CV - H. Gabriel Hernandez-Leon (EN).pdf').
 
-[Curriculum Vitae (ES)](/CV - H. Gabriel Hernandez-Leon (ES).pdf)
+[Curriculum Vitae (ES)](/CV - H. Gabriel Hernandez-Leon (ES).pdf).
