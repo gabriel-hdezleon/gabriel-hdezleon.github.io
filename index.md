@@ -1,5 +1,9 @@
 ---
-title: "H. Gabriel Hernández-León"
+navbar:
+  title: "H. Gabriel Hernández-León"
+  left:
+    - text: "Vitae"
+      href: _Vitae.md
 permalink: /
 layout: default
 ---
