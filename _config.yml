@@ -10,10 +10,13 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.md
-      right:
+  right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:hector.hernandezl@outlook.es             
+      href: mailto:hector.hernandezl@outlook.es
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/gabriel-hdezleon
 output:
   html_document:
     theme: cosmo
