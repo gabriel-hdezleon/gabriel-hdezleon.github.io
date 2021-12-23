@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
-navbar:
-  title: "H. Gabriel Hernández-León"
-  left:
-    - text: "Home"
-      href: index.md
-    - text: "Vitae"
-      href: _Vitae.md
+title: "H. Gabriel Hernández-León"
+show_downloads: true
+google_analytinc:
