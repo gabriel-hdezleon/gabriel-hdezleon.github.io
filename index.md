@@ -21,3 +21,8 @@ Mis temas de investigación de interés son el **desarrollo económico** y la **
 ## Research
 
 ## Repositories
+
+## CV
+
+[Curriculum Vitae (EN)](CV - H. Gabriel Hernandez-Leon (EN).pdf)
+[Curriculum Vitae (ES)](CV - H. Gabriel Hernandez-Leon (ES).pdf)
