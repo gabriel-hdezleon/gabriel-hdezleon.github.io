@@ -1,5 +1,6 @@
 ---
 title: "H. Gabriel Hernández-León"
+permalink: https:gabriel-hdezleon.github.io
 layout: default
 ---
 
