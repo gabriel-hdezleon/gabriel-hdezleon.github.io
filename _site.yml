@@ -4,15 +4,11 @@ navbar:
   title: "H. Gabriel Hernández-León"                             
   left:
     - text: "Home"
-      icon: fa-home
-      href: index.html
+      href: index.md
     - text: "About"
-      icon: fa-user 
-      href: about.html
+      href: about.md
   right:
     - text: "Contact me"
-      icon: fa-envelope-o
       href: mailto:hector.hernandezl@outlook.es
     - text: "GitHub"
-      icon: fa-github
       href: https://github.com/gabriel-hdezleon
