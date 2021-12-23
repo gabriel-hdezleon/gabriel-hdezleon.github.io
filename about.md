@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permalink: https:gabriel-hdezleon.github.io/about
+permalink: https:gabriel-hdezleon.github.io/about.html
 ---
 
 ## CV
