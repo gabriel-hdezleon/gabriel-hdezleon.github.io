@@ -4,8 +4,6 @@ permalink: /
 layout: default
 ---
 
-# H. Gabriel Hernández-León
-
 ## About me ##
 
 I am an economist and currently a student of the Master in Economics program at Center of Research and Teaching in Economics, [CIDE](https://www.cide.edu/).
