@@ -1,13 +1,12 @@
-name: "H. Gabriel Hernández-León"                                 
-output_dir: "."
+name: "my-website"
 navbar:
-  title: "H. Gabriel Hernández-León"                             
+  title: "H. Gabriel Hernández-León"
   left:
     - text: "Home"
-      href: index.md
-    - text: "About"
-      href: about.md
-    - text: "Contact me"
-      href: mailto:hector.hernandezl@outlook.es
-    - text: "GitHub"
+      icon: fa-address-card-o
+      href: index.html
+    - text: "Research"
+      icon: fa fa-coffee 
+      href: research.html
+    - icon: fa-github fa-lg
       href: https://github.com/gabriel-hdezleon
